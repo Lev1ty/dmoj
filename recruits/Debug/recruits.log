@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\adam yu\desktop\dmoj\recruits\source.cpp(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam yu\desktop\dmoj\recruits\source.cpp(9): warning C4018: '<': signed/unsigned mismatch
+  recruits.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\recruits.exe
+  recruits.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\recruits.pdb (Partial PDB)

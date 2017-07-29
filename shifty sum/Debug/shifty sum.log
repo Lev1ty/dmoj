@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\adam yu\desktop\dmoj\shifty sum\source.cpp(6): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  shifty sum.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\shifty sum.exe
+  shifty sum.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\shifty sum.pdb (Partial PDB)

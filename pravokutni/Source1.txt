@@ -1,0 +1,38 @@
+#include <bits/stdc++.h>
+#define mp make_pair
+
+using namespace std;
+typedef long long ll;
+
+int N;
+ll ans;
+vector<pair<ll, ll>> vectx, vecty;
+int main() {
+	scanf("%d", &N);
+	for (int i = 0; i<N; i++) {
+		ll a, b;
+		scanf("%lld %lld", &a, &b);
+		vectx.push_back(mp(a, b));
+		vecty.push_back(mp(b, a));
+	}
+	sort(vectx.begin(), vectx.end());
+	sort(vecty.begin(), vecty.end());
+	ll maxCord = 1000000000;
+	for (ll i = 1; i<N - 1; i++) {
+		ll cx, cy;
+		cx = vectx[i].first;
+		cy = vectx[i].second;
+		ll a = (i - (upper_bound(vectx.begin(), vectx.end(), mp(cx - 1, maxCord)) - vectx.begin()));
+		ll b = ((upper_bound(vectx.begin(), vectx.end(), mp(cx, maxCord)) - vectx.begin()) - i - 1);
+		ll c = (lower_bound(vecty.begin(), vecty.end(), mp(cy, cx)) - upper_bound(vecty.begin(), vecty.end(), mp(cy - 1, maxCord)));
+		ll d = (upper_bound(vecty.begin(), vecty.end(), mp(cy, maxCord)) - lower_bound(vecty.begin(), vecty.end(), mp(cy, cx)) - 1);
+		ans += a*b*c*d * 2;
+		/*printf("%d %d %d %d\n", (i-(upper_bound(vectx.begin(), vecty.end(), mp(cx-1, maxCord))-vectx.begin())-1),
+		((upper_bound(vectx.begin(), vectx.end(), mp(cx, maxCord))-vectx.begin())-i-1),
+		(lower_bound(vecty.begin(), vecty.end(), mp(cy, cx))-upper_bound(vecty.begin(), vecty.end(), mp(cy-1, maxCord))),
+		upper_bound(vecty.begin(), vecty.end(), mp(cy, maxCord))-lower_bound(vecty.begin(), vecty.end(), mp(cy, cx))-1);
+		*/
+	}
+	printf("%lld", ans);
+	return 0;
+}

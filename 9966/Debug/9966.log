@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\adam yu\desktop\dmoj\9966\source.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  9966.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\9966.exe
+  9966.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\9966.pdb (Partial PDB)

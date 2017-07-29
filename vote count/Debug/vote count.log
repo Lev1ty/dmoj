@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\adam yu\desktop\dmoj\vote count\source.cpp(13): warning C4018: '<': signed/unsigned mismatch
+  vote count.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\vote count.exe
+  vote count.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\vote count.pdb (Partial PDB)

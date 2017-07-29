@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\adam yu\desktop\dmoj\don't pass me the ball\source.cpp(12): warning C4018: '<=': signed/unsigned mismatch
+  don't pass me the ball.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\don't pass me the ball.exe
+  don't pass me the ball.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\don't pass me the ball.pdb (Partial PDB)

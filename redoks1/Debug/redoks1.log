@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\adam yu\desktop\dmoj\redoks1\source.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  redoks1.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\redoks1.exe
+  redoks1.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\redoks1.pdb (Partial PDB)

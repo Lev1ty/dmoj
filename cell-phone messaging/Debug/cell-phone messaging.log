@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\adam yu\desktop\dmoj\cell-phone messaging\source.cpp(9): warning C4018: '<': signed/unsigned mismatch
+  cell-phone messaging.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\cell-phone messaging.exe
+  cell-phone messaging.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\cell-phone messaging.pdb (Partial PDB)

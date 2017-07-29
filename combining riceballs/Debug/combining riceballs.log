@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\adam yu\desktop\dmoj\combining riceballs\source.cpp(35): warning C4244: 'initializing': conversion from 'll' to 'int', possible loss of data
+c:\users\adam yu\desktop\dmoj\combining riceballs\source.cpp(44): warning C4244: 'initializing': conversion from 'll' to 'int', possible loss of data
+c:\users\adam yu\desktop\dmoj\combining riceballs\source.cpp(47): warning C4244: 'initializing': conversion from 'll' to 'int', possible loss of data
+c:\users\adam yu\desktop\dmoj\combining riceballs\source.cpp(72): warning C4244: 'initializing': conversion from 'll' to 'int', possible loss of data
+  combining riceballs.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\combining riceballs.exe
+  combining riceballs.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\combining riceballs.pdb (Partial PDB)

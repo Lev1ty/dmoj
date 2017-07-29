@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\adam yu\desktop\dmoj\whale and soul\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  whale and soul.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\whale and soul.exe
+  whale and soul.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\whale and soul.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\adam yu\desktop\dmoj\redirection\source.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam yu\desktop\dmoj\redirection\source.cpp(13): warning C4018: '<': signed/unsigned mismatch
+  redirection.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\redirection.exe
+  redirection.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\redirection.pdb (Partial PDB)

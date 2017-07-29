@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\adam yu\desktop\dmoj\new key\source.cpp(15): warning C4018: '<': signed/unsigned mismatch
+  new key.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\new key.exe
+  new key.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\new key.pdb (Partial PDB)

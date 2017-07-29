@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\adam yu\desktop\dmoj\sqrt decomposition\source.cpp(25): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\adam yu\desktop\dmoj\sqrt decomposition\source.cpp(25): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'int *'
+  sqrt decomposition.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\sqrt decomposition.exe
+  sqrt decomposition.vcxproj -> C:\Users\Adam Yu\Desktop\dmoj\Debug\sqrt decomposition.pdb (Partial PDB)
